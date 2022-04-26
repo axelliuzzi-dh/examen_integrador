@@ -1,5 +1,5 @@
 # examen_integrador
-Axel Liuzzi
+Axel Jonathan Liuzzi
 Franco Carfagna
 Lautaro Desouches
 Daniel Murcia Arango
